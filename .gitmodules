@@ -7,4 +7,4 @@
 	branch = dev
 [submodule "app/src/main/cpp/BNM-Android"]
 	path = app/src/main/cpp/BNM-Android
-	url = https://github.com/chiteroman/BNM-Android.git
+	url = https://github.com/mdavidsaputra44/BNM-Android.git
